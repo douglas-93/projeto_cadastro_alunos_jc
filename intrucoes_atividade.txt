@@ -1,0 +1,5 @@
+Fazer com que o usuário consiga fazer o cadastro após clicar em "Ainda não tem cadastro? Clique aqui". Deve ser validados os inputs e inserir os dados no banco de dados caso sejam válidos.
+Caso não, voltar para tela de cadastro informando ao usuário o que não foi informado ou foi informado incorretamente.
+
+Após o cadastro realizado, o usuário tem que conseguir fazer a autenticação na tela de login (verificando no banco de dados) caso o usuário exista no banco. 
+Caso o usuário não exista, informar que não existe o cadastrado, e sugerir que ele o faça. Caso o usuário e senha informados seja válido, direcionar ele para uma tela dando boas vindas e informando o nome completo no cadastro ex: "Bem vindo, Douglas!". O nome deve vir do cadastro feito no banco de dados.
